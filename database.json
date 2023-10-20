@@ -1,15 +1,15 @@
 {
   "questions": [
     {
-      "question": "What is the capital of Italy?",
-      "answer": "Rome"
+      "question": "What is the capital of India?",
+      "answer": " New Delhi"
     },
     {
       "question": "What is the color of the sky?",
       "answer": "Blue"
     },
     {
-      "question": "how are you",
+      "question": "How are you",
       "answer": "I'm doing great!"
     },
     {
@@ -19,10 +19,6 @@
     {
       "question": "What's up?^",
       "answer": "Not much, what about you?"
-    },
-    {
-      "question": "Where can I subscribe?",
-      "answer": "Idk, subscribe to what?"
     },
     {
       "question": "Say something funny",
